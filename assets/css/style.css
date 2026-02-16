@@ -93,6 +93,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+
 .custom_active .custom_link {
     color: #56ab2f !important;
 }
@@ -102,11 +103,6 @@ body {
 }
 
 .custom_link:hover {
-    color: #56ab2f !important;
-    overflow: visible;
-}
-
-.custom_link:hover .active {
     color: #56ab2f !important;
     overflow: visible;
 }
