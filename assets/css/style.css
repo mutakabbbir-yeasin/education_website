@@ -96,12 +96,17 @@ body {
 .custom_active .custom_link {
     color: #56ab2f !important;
 }
-
+ 
 .custom_link:focus {
     color: #56ab2f !important;
 }
 
 .custom_link:hover {
+    color: #56ab2f !important;
+    overflow: visible;
+}
+
+.custom_link:hover .active {
     color: #56ab2f !important;
     overflow: visible;
 }
